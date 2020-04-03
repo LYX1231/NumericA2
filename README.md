@@ -1,0 +1,2 @@
+# NumericA2
+In this assignment you will demonstrate your understanding of solving engineering problems using numerical computations and assessing particular algorithms. The objectives of this assignment are to program algorithms for root-ﬁnding, solving systems of linear algebraic equations, performing least-squares approximations and interpolations, regressing solutions and solving a differential equation using different integration and differentiation schemes. 
